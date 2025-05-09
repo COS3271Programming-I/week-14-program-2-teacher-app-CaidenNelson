@@ -1,0 +1,91 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=51761:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/Test2/out/production/Test2 test
+Would you like to input person data? Yes or No
+yes
+how many people's data are you inputting
+2
+What is your person's first name?
+Joe
+What is your person's last name?
+Smith
+What is your person's gender?
+Male
+What is your person's ethnicity?
+White
+What is your person's religion?
+Christian
+What is your person's age?
+21
+What is your person's weight?
+200
+What is your person's height?
+5
+What is your person's first name?
+Sarah
+What is your person's last name?
+Smith
+What is your person's gender?
+female
+What is your person's ethnicity?
+White
+What is your person's religion?
+Christian
+What is your person's age?
+20
+What is your person's weight?
+190
+What is your person's height?
+5
+Would you like to input Student data? Yes or No
+yes
+how many people's data are you inputting
+1
+What is your person's first name?
+Jacob
+What is your person's last name?
+Smith
+What is your person's gender?
+Male
+What is your person's ethnicity?
+White
+What is your person's religion?
+Christian
+What is your person's age?
+22
+What is your person's weight?
+210
+What is your person's height?
+6
+What is your students major
+Homework
+What is your students class rank
+senior
+What is your students email
+Jacob.Smith@School.edu
+Would you like to input Teacher data? Yes or No
+yes
+how many people's data are you inputting
+1
+What is your person's first name?
+John
+What is your person's last name?
+Smith
+What is your person's gender?
+Male
+What is your person's ethnicity?
+White
+What is your person's religion?
+Christian
+What is your person's age?
+56
+What is your person's weight?
+230
+What is your person's height?
+6
+What is the subject of the teacher
+School work
+Person1 Joe Smith, age 21
+Person2 Sarah Smith, age 20
+Student1 Student Jacob Smith, age 22
+Teacher1 Teacher John Smith, age 56
+
+Process finished with exit code 0
